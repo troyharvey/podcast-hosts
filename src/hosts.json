@@ -806,6 +806,19 @@
         "notes": "DAI is claim in advert at top of this: https:\/\/podnews.net\/update\/podcorn-launches-plus-boomtown \r\nIn terms of attribution, RedCircle integrates with Chartable and Podsights, without using the prefix."
     },
     {
+        "pattern": "feeds.resonaterecordings.com",
+        "rss-pattern": "",
+        "hostname": "Resonate Recordings",
+        "retailer": "1",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "1",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/resonaterecordings.com\/",
+        "hostprivacyurl": "https:\/\/resonaterecordings.com\/terms-service-agreement\/",
+        "notes": ""
+    },
+    {
         "pattern": "rss.com",
         "rss-pattern": "",
         "hostname": "RSS Podcasting",
